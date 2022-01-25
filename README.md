@@ -23,12 +23,12 @@ https://www.youtube.com/watch?v=FuKpaxK-lV4
 
 > ### 추가 기능 구현
 > #### 1. <font color='#BF360C'>로그인/회원가입 기능</font>
->   ##### <font color='#BF360C'>① 회원가입 기능</font> 
+>   - ##### <font color='#BF360C'>① 회원가입 기능</font> 
 >      - 아이디,비밀번호,이름을 모두 입력을 안할시 alertDialog로 메시지
 >      - 아이디가 이미 존재할시 alertDialog로 메시지
 >      - 위 조건을 모두 만족하면 회원가입 되었다는 toast메시지로 알려주면서 로그인화면으로 이동 
 >      - 초기화 버튼 클릭시 입력한 내용 초기화
->   ##### <font color='#BF360C'>② 로그인 기능</font>
+>   - ##### <font color='#BF360C'>② 로그인 기능</font>
 >      - 아이디,비밀번호를 모두 입력을 안할시 alertDialog로 메시지
 >      - 회원가입한 아이디,비밀번호로 올바르게 입력 안할시 alertDialog로 메시지
 >      - 위 조건을 모두 만족하면 로그인하면서 상품리스트화면으로 이동
